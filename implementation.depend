@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1521714897 source:/home/justin/Documents/Advanced OS/Implementation/implementation/main.cpp
+	<iostream>
+
+1524340632 source:e:\education\mscs\advanced os\implementation\implementation\main.cpp
+	<iostream>
+	<limits.h>
+	<map>
+	<vector>
+	<string>
+	<list>
+	<functional>
+	<ctime>
+	<time.h>
+	<queue>
+
